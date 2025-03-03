@@ -1,1 +1,1 @@
-# git-story-exerceise
+# git-story-exercise
