@@ -1,4 +1,4 @@
-# git-story-exercise
+# The Haunted University
 
 - [Chapter 1](chapter1.md)
 - [Chapter 2](chapter2.md)
